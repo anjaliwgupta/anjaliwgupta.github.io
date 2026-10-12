@@ -18,14 +18,6 @@ announcements:
 
 latest_posts:
   enabled: false
-
-# Rendered between the publications section and the bottom social icons by
-# the local _layouts/about.liquid override.
-other_text: >
-  I enjoy playing the violin (old videos [here](https://www.dropbox.com/scl/fi/u0odzzf4zm2ta7vvmpzz1/Foote.mp4?rlkey=1h3ob48jm0ti9sd9k2bsmdll0&st=dx5ut837&dl=0),
-  [here](https://www.dropbox.com/scl/fi/ovssmblp25f0degekd32e/Barber.mp4?rlkey=ogmkwre1ine0spry6k0yul4f8&st=xqhrzlwc&dl=0),
-  [here](https://www.youtube.com/watch?v=-4S01mB8CVk&ab_channel=DaveJamrog)) and would welcome recommendations for playing classical music in NYC.
-  Other pastimes while babysitting Claude: reading, knitting, and painting.
 ---
 
 **PhD student (third-year) in Computer Science at [NYU Courant](https://wp.nyu.edu/cilvr/), advised by Professor [Saining Xie](https://www.sainingxie.com/).**
